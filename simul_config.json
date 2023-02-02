@@ -1,0 +1,22 @@
+{
+    "gas": {
+        "conn_str": "",
+        "interval": 10
+    },
+    "electricity": {
+        "conn_str": "",
+        "interval": 5
+    },
+    "weather": {
+        "conn_str": "",
+        "interval": 120,
+        "coordinates": {
+            "lat": 51.0330995,
+            "lon": 3.6865697
+        },
+        "az_maps": {
+            "subscription_key": "",
+            "client_id": ""
+        }
+    }
+}
